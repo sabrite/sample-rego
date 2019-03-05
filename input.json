@@ -1,0 +1,5 @@
+{
+  "method": "GET",
+  "action": "Accounts/id",
+  "objectId" : "user1"
+}
